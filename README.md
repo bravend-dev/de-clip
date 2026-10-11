@@ -23,14 +23,8 @@ Derm1M accuracy protocol and a nine-dataset weighted-F1 protocol.
 
 ## Code release
 
-The code, configuration files, LLM-generated description pools and result files used in the paper
-will be released in this repository upon acceptance of the manuscript. The release will include:
-
-- the DE-CLIP implementation (`declip/`) and the configuration of every experiment (`configs/`);
-- the description pools for all tested LLM generators (`descriptions/`);
-- scripts that reproduce every table of the paper from the released pools (`scripts/`, `tools/`),
-  including the statistical tests of Section 4.7;
-- the result files behind the reported numbers (`results/`).
+The code, configuration files, and LLM-generated description pools used in the paper
+will be released in this repository upon acceptance of the manuscript.
 
 Watch or star the repository to be notified of the release.
 
