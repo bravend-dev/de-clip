@@ -1,0 +1,11 @@
+# Table 3 / Table 4 rows for one backbone: Default, CuPL and DE-CLIP share the same prompts.
+#   Default : alpha = 1.0, class-name anchor only
+#   CuPL    : alpha = 0.0, uniform mean of all description prompts
+#   DE-CLIP : alpha = 0.5, anchor-similarity scoring + grouping + shifted-linear weights
+#   (alpha = 0.5 / none / uniform is D1, the unfiltered pool)
+# Run with --set evaluation.protocol=accuracy for Table 3.
+base: default.yaml
+grid:
+  aggregate.alpha: [1.0, 0.0, 0.5]
+  aggregate.selection.type: [none, grouping]
+  aggregate.weighting: [uniform, shifted_linear]

@@ -1,0 +1,3 @@
+# Table 9: pool size K. K = 20 n uses the first n GPT-5.2 calls (descriptions/gpt-5.2/call_k20_w3_1..n).
+# Usage: --set 'encode.descriptions=["descriptions/gpt-5.2/call_k20_w3_1.json", ...]'   (one run per K)
+base: ../default.yaml

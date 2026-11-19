@@ -1,0 +1,16 @@
+# DCLIP baseline (Menon & Vondrick, ICLR 2023): descriptors generated with the original DCLIP
+# few-shot prompt ("What are useful visual features for distinguishing a {c} in a photo?"),
+# 6-21 per class as generated and cycled to 21 entries, rendered as "{c}, which has {descriptor}."
+# and scored by the mean cosine over the prompts (renormalize = false).
+# tools/dclip_subsets.py gives its run-to-run variability over random subsets of the descriptors.
+base: ../default.yaml
+encode:
+  descriptions: [descriptions/baselines/dclip_gpt-5.2.json]
+  templates:
+    description: ["{c}, {d}"]
+    class_name_candidate: []
+aggregate:
+  alpha: 0.0
+  selection: {type: none}
+  weighting: uniform
+  renormalize: false

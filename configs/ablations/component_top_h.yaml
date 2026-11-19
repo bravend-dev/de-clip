@@ -1,0 +1,9 @@
+# Table 5, Top-H rows: keep the H candidates most similar to the class anchor, uniform mean, alpha = 0.5.
+base: ../default.yaml
+aggregate:
+  selection:
+    type: top_h
+    top_h: 5
+  weighting: uniform
+grid:
+  aggregate.selection.top_h: [5, 10, 100, 200, 500]

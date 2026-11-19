@@ -1,0 +1,1031 @@
+{
+  "SJS/TEN": [
+    "Oral mucosa sloughing",
+    "Dusky erythema",
+    "Erosive ulceration",
+    "Irregular linear vessels",
+    "Keratinocyte apoptosis"
+  ],
+  "acanthosis nigricans": [
+    "Velvety papillomatous plaque",
+    "Velvety brown hyperpigmentation",
+    "Exaggerated skin markings",
+    "Insulin induced hyperplasia",
+    "Posterior neck involvement"
+  ],
+  "acne": [
+    "Closed comedones",
+    "Erythematous pustules",
+    "Follicular occlusion",
+    "Dotted vessels",
+    "Yellow globules"
+  ],
+  "acne and rosacea photos": [
+    "Erythematous papulopustular eruption",
+    "Cheek centered papules",
+    "Open comedones",
+    "Polygonal vessels",
+    "Follicular occlusion"
+  ],
+  "acne vulgaris": [
+    "Papulopustular eruption",
+    "Erythematous papules",
+    "Keratinous follicular plugs",
+    "Dotted vascular pattern",
+    "Facial seborrheic distribution"
+  ],
+  "acquired autoimmune bullous diseaseherpes gestationis": [
+    "Tense subepidermal bullae",
+    "Erythematous urticarial plaques",
+    "Crusted erosions",
+    "Dotted vessels",
+    "Periumbilical BP180 antibodies"
+  ],
+  "acrodermatitis enteropathica": [
+    "Periorificial erosions",
+    "Erythematous scaly plaques",
+    "Acral symmetric erosions",
+    "Dotted vessels",
+    "Zinc transporter defect"
+  ],
+  "actinic keratosis": [
+    "Rough scaly papule",
+    "Erythematous macule",
+    "Strawberry pattern",
+    "UV induced dysplasia",
+    "Sun-exposed forearm"
+  ],
+  "actinic keratosis basal cell carcinoma and other malignant lesions": [
+    "irregular scaly patch",
+    "arborizing vessels",
+    "erythematous pearly nodule",
+    "hyperkeratotic ulceration",
+    "sun exposed face"
+  ],
+  "allergic contact dermatitis": [
+    "Linear eczematous plaque",
+    "Dotted vessels pattern",
+    "Erythematous violaceous hue",
+    "Delayed hypersensitivity scaly",
+    "Contact site distribution"
+  ],
+  "aplasia cutis": [
+    "well demarcated defect",
+    "erythematous base",
+    "membranous ulceration",
+    "absent skin structures",
+    "congenital scalp absence"
+  ],
+  "atopic dermatitis photos": [
+    "poorly demarcated plaques",
+    "intense erythema",
+    "lichenified scaly surface",
+    "dotted vessels visible",
+    "flexural barrier dysfunction"
+  ],
+  "basal cell carcinoma": [
+    "Nodular translucent papule",
+    "Pearly pink nodule",
+    "Ulcerated crusted lesion",
+    "Arborizing telangiectasia",
+    "Basaloid facial proliferation"
+  ],
+  "basal cell carcinoma morpheiform": [
+    "ill-defined plaque",
+    "hypopigmented plaque",
+    "sclerotic plaque",
+    "sparse arborizing vessels",
+    "nasal dermal strands"
+  ],
+  "becker nevus": [
+    "Irregular brown patch",
+    "Hypertrichotic upper trunk",
+    "Reticular pigment network",
+    "Androgen mediated hamartoma",
+    "Perifollicular hypopigmentation"
+  ],
+  "behcets disease": [
+    "Well demarcated ulcers",
+    "Erythematous violaceous halo",
+    "Ulcerated necrotic base",
+    "Dotted linear vessels",
+    "Mucosal neutrophilic vasculitis"
+  ],
+  "benign": [
+    "Well circumscribed papule",
+    "Dome shaped papilloma",
+    "Homogeneous pigment network",
+    "Erythematous vascular proliferation",
+    "Intertriginous scaly plaque"
+  ],
+  "benign keratosis": [
+    "Sharply demarcated plaque",
+    "Hyperpigmented brown macule",
+    "Milia-like cysts",
+    "Waxy scaly trunk",
+    "Epidermal hyperplasia"
+  ],
+  "bullous disease photos": [
+    "Tense bullae",
+    "Erythematous base",
+    "Crusted erosions",
+    "Polymorphous vessels",
+    "Mucosal subepithelial split"
+  ],
+  "calcinosis cutis": [
+    "Firm nodular plaques",
+    "Chalky white deposits",
+    "Yellow amorphous structures",
+    "Periarticular calcium deposition",
+    "Peripheral telangiectatic vessels"
+  ],
+  "cellulitis impetigo and other bacterial infections": [
+    "Diffuse poorly demarcated",
+    "Diffuse erythema",
+    "Honey colored crusts",
+    "Dotted polymorphous vessels",
+    "Dermal lymphatic invasion"
+  ],
+  "cheilitis": [
+    "angular fissures",
+    "linear vessels",
+    "erythematous margin",
+    "scaly erosions",
+    "lower lip inflammation"
+  ],
+  "congenital nevus": [
+    "Irregular elevated plaque",
+    "Globular pigment pattern",
+    "Hyperpigmented brown macule",
+    "Rough verrucous surface",
+    "Dermal melanocyte nests"
+  ],
+  "dariers disease": [
+    "Greasy warty papules",
+    "Brown crusted papules",
+    "Central keratin plugs",
+    "Acantholytic dyskeratosis",
+    "Seborrheic distribution"
+  ],
+  "dermatofibroma": [
+    "Firm dome-shaped nodule",
+    "Peripheral pigment network",
+    "Violaceous brown papule",
+    "Scaly hyperkeratotic surface",
+    "Pretibial dermal proliferation"
+  ],
+  "dermatomyositis": [
+    "Well demarcated papules",
+    "Violaceous periorbital erythema",
+    "Scaly Gottron papules",
+    "Dilated capillary loops",
+    "Microvascular complementopathy"
+  ],
+  "disseminated actinic porokeratosis": [
+    "Annular keratotic borders",
+    "Erythematous sun-exposed sites",
+    "Hyperkeratotic peripheral ridge",
+    "Peripheral white track",
+    "UV-induced clonal proliferation"
+  ],
+  "drug eruption": [
+    "Morbilliform macules symmetric",
+    "Dotted vessels",
+    "Erythematous scaly papules",
+    "Type IV hypersensitivity",
+    "Trunk predominant"
+  ],
+  "drug induced pigmentary changes": [
+    "Irregular hyperpigmented macule",
+    "Violaceous brown patches",
+    "Fine scaling",
+    "Reticular pigment network",
+    "Acral dermal melanosis"
+  ],
+  "dyshidrotic eczema": [
+    "Tense vesicular clusters",
+    "Erythematous base",
+    "Spongiotic vesicles",
+    "Yellow globular pattern",
+    "Palmoplantar spongiosis"
+  ],
+  "eczema": [
+    "ill-defined patch",
+    "erythematous eruption",
+    "scaly fissures",
+    "dotted vessels",
+    "flexural spongiosis"
+  ],
+  "eczema photos": [
+    "Poorly demarcated plaques",
+    "Erythematous patches",
+    "Scaly lichenification",
+    "Dotted vessels",
+    "Antecubital spongiosis"
+  ],
+  "ehlers danlos syndrome": [
+    "Extensor forearm scars",
+    "Violaceous ecchymoses",
+    "Thin translucent skin",
+    "Prominent telangiectatic vessels",
+    "Dermal collagen loss"
+  ],
+  "epidermal nevus": [
+    "Linear verrucous plaque",
+    "Hyperpigmented brown plaque",
+    "Verrucous scaly surface",
+    "Comedo like openings",
+    "Blaschkoid epidermal proliferation"
+  ],
+  "epidermolysis bullosa": [
+    "Fragile tense bullae",
+    "Acral hemorrhagic erosions",
+    "Denuded skin",
+    "Blood-filled lacunae",
+    "Dermal-epidermal cleavage"
+  ],
+  "erythema annulare centrifigum": [
+    "Annular centrifugal expansion",
+    "Erythematous ring",
+    "Peripheral trailing scale",
+    "Peripheral dotted vessels",
+    "Perivascular truncal lesions"
+  ],
+  "erythema elevatum diutinum": [
+    "symmetrical elevated plaques",
+    "red brown nodules",
+    "firm fibrotic plaques",
+    "prominent linear vessels",
+    "extensor neutrophilic vasculitis"
+  ],
+  "erythema multiforme": [
+    "Acral targetoid papule",
+    "Dusky erythematous center",
+    "Crusted erosive center",
+    "Dotted vascular ring",
+    "Interface dermatitis reaction"
+  ],
+  "erythema nodosum": [
+    "Tender nodular lesions",
+    "Erythematous violaceous nodules",
+    "Firm subcutaneous nodules",
+    "Polymorphous vascular pattern",
+    "Pretibial septal panniculitis"
+  ],
+  "exanthems and drug eruptions": [
+    "Symmetric maculopapular eruption",
+    "Diffuse erythematous patches",
+    "Fine scaly papules",
+    "Dotted vascular pattern",
+    "Type IV flexures"
+  ],
+  "factitial dermatitis": [
+    "Bizarre geometric erosions",
+    "Erythematous crusts",
+    "Superficial excoriations",
+    "Absent pigment network",
+    "Self-inflicted accessible sites"
+  ],
+  "fixed eruptions": [
+    "Well demarcated plaque",
+    "Violaceous macule",
+    "Central blistering",
+    "Structureless brown pigmentation",
+    "Recurrent CD8+ T-cells"
+  ],
+  "folliculitis": [
+    "Follicular pustules",
+    "Erythematous papules",
+    "Crusted follicles",
+    "Perifollicular vessels",
+    "Truncal follicular infection"
+  ],
+  "fordyce spots": [
+    "labial dome papules",
+    "ectopic sebaceous glands",
+    "pale yellow papules",
+    "smooth non-scaly",
+    "yellow lobular clods"
+  ],
+  "granuloma annulare": [
+    "Annular raised papules",
+    "Yellow orange clods",
+    "Erythematous dorsal hands",
+    "Dermal palisading granulomas",
+    "Smooth central clearing"
+  ],
+  "granuloma pyogenic": [
+    "Pedunculated erythematous papule",
+    "Ulcerated friable surface",
+    "Glomerular vessels pattern",
+    "Lobular capillary proliferation",
+    "Gingival frequent site"
+  ],
+  "hailey hailey disease": [
+    "Flaccid erosive plaques",
+    "Dotted linear vessels",
+    "Erythematous plaques",
+    "Macerated fissures",
+    "ATP2C1 intertrigo"
+  ],
+  "hair loss photos alopecia and other hair diseases": [
+    "Well demarcated patch",
+    "Erythematous scalp",
+    "Scaly follicular plugging",
+    "Exclamation mark hairs",
+    "Autoimmune vertex alopecia"
+  ],
+  "halo nevus": [
+    "truncal round papule",
+    "depigmented halo",
+    "smooth intact surface",
+    "central globular pattern",
+    "immune melanocyte loss"
+  ],
+  "herpes hpv and other stds photos": [
+    "Clustered vesicles",
+    "Erythematous ulceration",
+    "Genital verrucous papules",
+    "Dotted vessels",
+    "Multinucleated giant cells"
+  ],
+  "hidradenitis": [
+    "Deep tender nodules",
+    "Erythematous nodules",
+    "Ulcerated draining sinuses",
+    "Polymorphous vessels",
+    "Axillary follicular occlusion"
+  ],
+  "hyperpigmentation": [
+    "Irregular brown macule",
+    "Reticular pigment network",
+    "Faintly scaly patch",
+    "Melanin incontinence present",
+    "Periorbital brown patches"
+  ],
+  "ichthyosis vulgaris": [
+    "Fine polygonal scales",
+    "Pale whitish scales",
+    "Adherent scales shins",
+    "Polygonal scale network",
+    "Filaggrin deficiency palms"
+  ],
+  "incontinentia pigmenti": [
+    "Blaschkoid linear streaks",
+    "Hyperpigmented macules",
+    "Verrucous papules",
+    "Reticular brown network",
+    "IKBKG mutation"
+  ],
+  "juvenile xanthogranuloma": [
+    "Firm dome shaped",
+    "Yellow orange papule",
+    "Smooth intact surface",
+    "Yellow orange globules",
+    "Dermal histiocytic scalp"
+  ],
+  "kaposi sarcoma": [
+    "Exophytic nodular lesion",
+    "Violaceous plaque",
+    "Ulcerated nodule",
+    "Rainbow pattern",
+    "HHV-8 lower extremities"
+  ],
+  "keloid": [
+    "Extends beyond margins",
+    "Peripheral linear vessels",
+    "Erythematous violaceous nodule",
+    "Firm rubbery consistency",
+    "Earlobe collagen overgrowth"
+  ],
+  "keratosis pilaris": [
+    "Follicular papules",
+    "Perifollicular erythema",
+    "Keratinous plugs",
+    "Central keratin plug",
+    "Extensor follicular hyperkeratosis"
+  ],
+  "langerhans cell histiocytosis": [
+    "Erosive papular plaques",
+    "Polymorphous vascular pattern",
+    "Erythematous papules",
+    "Scaly CD1a infiltrate",
+    "Retroauricular scalp lesions"
+  ],
+  "lentigo maligna": [
+    "Irregular flat macule",
+    "Brown-gray variegation",
+    "Scaly patch",
+    "Rhomboidal structures",
+    "Lentiginous facial proliferation"
+  ],
+  "lichen amyloidosis": [
+    "Pruritic hyperkeratotic papules",
+    "Brownish violaceous papules",
+    "Papillary dermal amyloid",
+    "Brown globules",
+    "Shin extensor predilection"
+  ],
+  "lichen planus": [
+    "Lichenoid papules",
+    "Violaceous papules",
+    "Fine scaling",
+    "Wickham striae",
+    "Wrist flexures"
+  ],
+  "lichen simplex": [
+    "Lichenified pruritic plaque",
+    "Erythematous hyperpigmented flexure",
+    "Thick scaly skin",
+    "Numerous dotted vessels",
+    "Chronic itch cycle"
+  ],
+  "lichenoid keratosis": [
+    "Solitary violaceous plaque",
+    "Erythematous brown papule",
+    "Fine scaly surface",
+    "Gray blue dots",
+    "Sun exposed regression"
+  ],
+  "light diseases and disorders of pigmentation": [
+    "Well demarcated macules",
+    "Depigmented macules",
+    "Scaly patches",
+    "Absent pigment network",
+    "Segmental melanocyte loss"
+  ],
+  "livedo reticularis": [
+    "Reticular pattern",
+    "Violaceous reticulation",
+    "Intact skin",
+    "Reticular vascular pattern",
+    "Lower limb vasospasm"
+  ],
+  "lupus and other connective tissue diseases": [
+    "Annular atrophic plaque",
+    "Erythematous malar rash",
+    "Scaly adherent plaque",
+    "Follicular keratotic plugs",
+    "Interface dermatitis"
+  ],
+  "lupus erythematosus": [
+    "Annular scaly plaque",
+    "Perifollicular white halo",
+    "Erythematous plaque",
+    "Atrophic scarring",
+    "Malar interface dermatitis"
+  ],
+  "lupus subacute": [
+    "Annular polycyclic plaques",
+    "Dotted vascular pattern",
+    "Erythematous violaceous plaques",
+    "Superficial fine scale",
+    "Photosensitive interface dermatitis"
+  ],
+  "lyme disease": [
+    "Expanding annular plaque",
+    "Erythematous targetoid lesion",
+    "Non scaly plaque",
+    "Homogeneous erythema pattern",
+    "Spirochetal radial spread"
+  ],
+  "lymphangioma": [
+    "Clustered vesicles",
+    "Multiple lacunae",
+    "Erythematous violaceous",
+    "Soft compressible",
+    "Neck lymphatic"
+  ],
+  "malignant": [
+    "Irregular raised nodule",
+    "Atypical pigment network",
+    "Erythematous violaceous patch",
+    "Ulcerated scaly surface",
+    "Scalp dermal invasion"
+  ],
+  "malignant melanoma": [
+    "Asymmetric irregular borders",
+    "Variegated pigmentation",
+    "Ulcerated surface",
+    "Atypical pigment network",
+    "Sun-exposed vertical growth"
+  ],
+  "melanoma": [
+    "Asymmetric irregular borders",
+    "Atypical pigment network",
+    "Variegated pigmentation",
+    "Scaly ulcerated surface",
+    "Subungual melanocyte proliferation"
+  ],
+  "melanoma skin cancer nevi and moles": [
+    "Asymmetric irregular borders",
+    "Atypical pigment network",
+    "Variegated dark brown",
+    "Ulcerated scaly surface",
+    "Truncal dermal invasion"
+  ],
+  "milia": [
+    "firm white papule",
+    "milky white globules",
+    "ivory white",
+    "smooth keratin plug",
+    "periorbital inclusion cyst"
+  ],
+  "mucinosis": [
+    "Waxy papules",
+    "Milky white areas",
+    "Skin colored plaques",
+    "Dermal mucin deposition",
+    "Non-scaly forearms"
+  ],
+  "mucous cyst": [
+    "dome shaped translucent",
+    "bluish translucent",
+    "smooth fluctuant",
+    "structureless homogeneous area",
+    "mucin filled distal finger"
+  ],
+  "mycosis fungoides": [
+    "Sharply demarcated patches",
+    "Erythematous to violaceous",
+    "Fine scaling plaques",
+    "Fine linear vessels",
+    "Epidermotropic trunk involvement"
+  ],
+  "myiasis": [
+    "Raised irregular nodule",
+    "Erythematous central lesion",
+    "Ulcerated draining lesion",
+    "Central moving larva",
+    "Subcutaneous larval infestation"
+  ],
+  "naevus comedonicus": [
+    "Grouped comedonal papules",
+    "Dilated follicular openings",
+    "Keratin-filled pits",
+    "Hyperpigmented comedones",
+    "Segmental follicular hyperkeratosis"
+  ],
+  "nail fungus and other nail disease": [
+    "Distal onycholysis",
+    "Yellow-green discoloration",
+    "Subungual hyperkeratosis",
+    "Spiked proximal margin",
+    "Keratin degradation"
+  ],
+  "nail psoriasis": [
+    "Distal onycholysis",
+    "Oil-drop erythema",
+    "Pitted nail surface",
+    "Splinter hemorrhages",
+    "Nail-matrix inflammation"
+  ],
+  "necrobiosis lipoidica": [
+    "Circumscribed atrophic plaque",
+    "Branching linear vessels",
+    "Yellow brown center",
+    "Atrophic ulcerated center",
+    "Granulomatous pretibial plaques"
+  ],
+  "nematode infection": [
+    "linear serpiginous tract",
+    "erythematous linear streak",
+    "excoriated crusted papules",
+    "serpiginous dotted vessels",
+    "interdigital larval migration"
+  ],
+  "neurodermatitis": [
+    "Lichenified plaque",
+    "Erythematous lichenification",
+    "Hyperkeratotic scaling",
+    "Dotted vessels",
+    "Nape neurogenic pruritus"
+  ],
+  "neurofibromatosis": [
+    "Trunk soft nodules",
+    "Hyperpigmented macules",
+    "Soft fleshy texture",
+    "Structureless brown areas",
+    "Schwann cell proliferation"
+  ],
+  "neurotic excoriations": [
+    "Linear erosions",
+    "Erythematous erosions",
+    "Hemorrhagic crusts",
+    "Linear irregular vessels",
+    "Self inflicted forearms"
+  ],
+  "neutrophilic dermatoses": [
+    "Edematous pustular plaques",
+    "Erythematous violaceous",
+    "Crusted ulcerations",
+    "Polymorphous vessels",
+    "Pretibial neutrophilic infiltrate"
+  ],
+  "nevocytic nevus": [
+    "Truncal symmetric papule",
+    "Light brown macule",
+    "Smooth non-scaly",
+    "Regular pigment network",
+    "Benign melanocytic proliferation"
+  ],
+  "nevus": [
+    "Symmetrical raised papule",
+    "Homogeneous brown macule",
+    "Smooth glossy surface",
+    "Reticular pigment network",
+    "Melanocytic junctional nests"
+  ],
+  "nevus sebaceous of jadassohn": [
+    "Hairless yellow plaque",
+    "Verrucous surface",
+    "Yellow lobular structures",
+    "Linear telangiectasia",
+    "Scalp HRAS mosaicism"
+  ],
+  "papilomatosis confluentes and reticulate": [
+    "Confluent reticulated papules",
+    "Erythematous brown macules",
+    "Scaly verrucous papules",
+    "Reticular pigment network",
+    "Epidermal hyperplasia trunk"
+  ],
+  "paronychia": [
+    "Nail fold swelling",
+    "Erythematous nail fold",
+    "Purulent crusted exudate",
+    "Dilated capillary loops",
+    "Periungual bacterial infection"
+  ],
+  "pediculosis lids": [
+    "Adherent oval nits",
+    "Translucent ovoid eggs",
+    "Erythematous eyelid margin",
+    "Scaly crusted lashes",
+    "Saliva induced pruritus"
+  ],
+  "perioral dermatitis": [
+    "Grouped erythematous papules",
+    "Scaly papulopustular eruption",
+    "Dotted perifollicular vessels",
+    "Topical steroid rebound",
+    "Vermilion border spared"
+  ],
+  "photodermatoses": [
+    "Sharply demarcated plaques",
+    "Dotted vessels pattern",
+    "Erythematous macules",
+    "Scaly papular eruption",
+    "Photoinduced extensor surfaces"
+  ],
+  "pilar cyst": [
+    "Smooth firm nodule",
+    "Skin colored nodule",
+    "Smooth intact surface",
+    "Homogeneous yellowish area",
+    "Outer root sheath"
+  ],
+  "pilomatricoma": [
+    "Firm subcutaneous nodule",
+    "White structureless areas",
+    "Bluish erythematous nodule",
+    "Hard chalky core",
+    "Hair-matrix tumor scalp"
+  ],
+  "pityriasis lichenoides chronica": [
+    "Small scaly papules",
+    "Erythematous brown papules",
+    "Fine white scale",
+    "Dotted vessels visible",
+    "Truncal lymphocytic infiltrate"
+  ],
+  "pityriasis rosea": [
+    "Oval herald patch",
+    "Erythematous scaly patches",
+    "Fine collarette scaling",
+    "Dotted vessels pattern",
+    "Truncal viral eruption"
+  ],
+  "pityriasis rubra pilaris": [
+    "Follicular hyperkeratotic papules",
+    "Orange salmon erythema",
+    "Coarse scaly plaques",
+    "Dotted vessels pattern",
+    "Palmoplantar keratinization disorder"
+  ],
+  "poison ivy photos and other contact dermatitis": [
+    "Linear vesicles forearm",
+    "Erythematous streaks",
+    "Weeping vesicles",
+    "Dotted vessels",
+    "Type IV hypersensitivity"
+  ],
+  "porokeratosis actinic": [
+    "Forearm annular plaque",
+    "Erythematous brown rim",
+    "Hyperkeratotic cornoid lamella",
+    "Peripheral white track",
+    "Central dotted vessels"
+  ],
+  "porokeratosis of mibelli": [
+    "Annular keratotic rim",
+    "Erythematous atrophic center",
+    "Dorsal hand predilection",
+    "Peripheral white track",
+    "Cornoid lamellae histology"
+  ],
+  "porphyria": [
+    "Dorsal hand blister",
+    "Erythematous erosions",
+    "Milia cysts",
+    "Telangiectatic vessels",
+    "Porphyrin photosensitivity"
+  ],
+  "port wine stain": [
+    "well-demarcated patch",
+    "violaceous flat macule",
+    "dotted linear vessels",
+    "GNAQ mutation",
+    "V1 distribution"
+  ],
+  "prurigo nodularis": [
+    "Firm domed nodules",
+    "Central white scar",
+    "Erythematous to violaceous",
+    "Scaly excoriated nodules",
+    "Pruritic extensor nodules"
+  ],
+  "psoriasis": [
+    "Well-demarcated plaques",
+    "Regular dotted vessels",
+    "Thick silvery scales",
+    "Erythematous extensor predilection",
+    "Keratinocyte hyperproliferation"
+  ],
+  "psoriasis pictures lichen planus and related diseases": [
+    "Sharply demarcated plaques",
+    "Violaceous papules",
+    "Wickham striae",
+    "Regular dotted vessels",
+    "Immune mediated flexures"
+  ],
+  "pustular psoriasis": [
+    "Confluent pustular plaques",
+    "Milky yellow globules",
+    "Erythematous scaly pustules",
+    "Spongiform pustules",
+    "Palmoplantar involvement"
+  ],
+  "pyogenic granuloma": [
+    "Pedunculated red nodule",
+    "Erythematous violaceous papule",
+    "Friable ulcerated surface",
+    "Red lagoons",
+    "Periungual lobular proliferation"
+  ],
+  "rhinophyma": [
+    "Bulbous nasal enlargement",
+    "Lobulated coarse surface",
+    "Erythematous telangiectatic skin",
+    "Dilated follicular openings",
+    "Nasal sebaceous hyperplasia"
+  ],
+  "rosacea": [
+    "Poorly defined papules",
+    "Erythematous facial flushing",
+    "Papulopustular lesions",
+    "Polygonal vascular network",
+    "Neurovascular facial dysregulation"
+  ],
+  "sarcoidosis": [
+    "Discrete papular plaques",
+    "Orange structureless areas",
+    "Erythematous violaceous",
+    "Noncaseating granulomas",
+    "Smooth facial nodules"
+  ],
+  "scabies": [
+    "Serpiginous burrow",
+    "Delta wing sign",
+    "Erythematous papules",
+    "Scaly excoriations",
+    "Interdigital burrowing mite"
+  ],
+  "scabies lyme disease and other infestations and bites": [
+    "Linear interdigital burrow",
+    "Annular erythema",
+    "Scaly grouped papules",
+    "Delta wing sign",
+    "Borrelia spirochetes"
+  ],
+  "scleroderma": [
+    "Bound-down plaque",
+    "Ivory sclerotic skin",
+    "Dilated telangiectasias",
+    "Dermal fibrosis",
+    "Perioral tightening"
+  ],
+  "scleromyxedema": [
+    "Waxy firm papules",
+    "Skin-colored papules",
+    "White structureless areas",
+    "Dermal mucin deposition",
+    "Face and trunk"
+  ],
+  "seborrheic dermatitis": [
+    "Ill-defined plaques",
+    "Erythematous patches",
+    "Greasy yellow scales",
+    "Dotted vessels",
+    "Malassezia nasolabial folds"
+  ],
+  "seborrheic keratoses and other benign tumors": [
+    "Well demarcated stuck-on",
+    "Brown variably pigmented",
+    "Waxy verrucous surface",
+    "Milia like cysts",
+    "Truncal epidermal proliferation"
+  ],
+  "seborrheic keratosis": [
+    "Stuck-on plaque",
+    "Milia-like cysts",
+    "Hyperpigmented trunk",
+    "Warty comedo-like openings",
+    "Epidermal proliferation"
+  ],
+  "solar lentigo": [
+    "Sharply demarcated macule",
+    "Uniform brown pigmentation",
+    "Smooth flat surface",
+    "Fingerprint-like pattern",
+    "UV-induced melanosis"
+  ],
+  "solid cystic basal cell carcinoma": [
+    "Pearly rolled border",
+    "Erythematous violaceous hue",
+    "Ulcerated cystic surface",
+    "Arborizing telangiectasia present",
+    "Peripheral palisading face"
+  ],
+  "squamous cell carcinoma": [
+    "Exophytic irregular nodule",
+    "Erythematous indurated plaque",
+    "Scaly ulcerated lesion",
+    "Glomerular vessels visible",
+    "UV-mutated cheek lesion"
+  ],
+  "stasis edema": [
+    "Bilateral pitting edema",
+    "Dilated linear vessels",
+    "Brown hemosiderin pigmentation",
+    "Indurated scaly skin",
+    "Venous hypertension legs"
+  ],
+  "stevens johnson syndrome": [
+    "Confluent atypical macules",
+    "Dusky erythematous",
+    "Epidermal detachment",
+    "Linear irregular vessels",
+    "Mucocutaneous necrosis"
+  ],
+  "striae": [
+    "Linear abdominal bands",
+    "Violaceous erythematous streaks",
+    "Smooth atrophic surface",
+    "Linear vascular pattern",
+    "Dermal collagen rupture"
+  ],
+  "sun damaged skin": [
+    "Irregular macules",
+    "Pseudonetwork pattern",
+    "Erythematous patches",
+    "Rough scaly papules",
+    "Solar elastosis face"
+  ],
+  "superficial spreading melanoma ssm": [
+    "Irregular asymmetric macule",
+    "Atypical pigment network",
+    "Erythematous brown variegation",
+    "Focally scaly surface",
+    "Truncal radial growth"
+  ],
+  "syringoma": [
+    "Small firm papules",
+    "Skin-colored lesions",
+    "Periorbital clustering",
+    "Round whitish clods",
+    "Eccrine duct proliferation"
+  ],
+  "systemic disease": [
+    "Erythematous subcutaneous nodules",
+    "Palmar erythema",
+    "Scaly annular plaques",
+    "Lacy reticular pattern",
+    "Periungual telangiectasia"
+  ],
+  "telangiectases": [
+    "Fine linear vessels",
+    "Linear serpentine vessels",
+    "Erythematous blanching vessels",
+    "Dilated superficial capillaries",
+    "Smooth facial macules"
+  ],
+  "tick bite": [
+    "Erythematous papule",
+    "Perilesional erythema",
+    "Crusted punctum",
+    "Central dark dot",
+    "Attached tick"
+  ],
+  "tinea ringworm candidiasis and other fungal infections": [
+    "Annular erythematous plaque",
+    "Peripheral dotted vessels",
+    "Scaly central clearing",
+    "Comma hairs present",
+    "Intertriginous keratin invasion"
+  ],
+  "tuberous sclerosis": [
+    "Dome-shaped papules",
+    "Erythematous papules",
+    "Firm fibrous papules",
+    "Red dotted vessels",
+    "mTOR facial distribution"
+  ],
+  "tungiasis": [
+    "Raised central papule",
+    "Erythematous halo",
+    "Verrucous surface",
+    "Central black dot",
+    "Periungual embedded flea"
+  ],
+  "urticaria": [
+    "Pruritic raised wheal",
+    "Blanching erythema",
+    "Smooth non-scaly",
+    "Linear red vessels",
+    "Mast cell edema"
+  ],
+  "urticaria hives": [
+    "Raised circinate wheals",
+    "Erythematous widespread",
+    "Smooth non-scaly",
+    "Dotted red vessels",
+    "Mast-cell mediated"
+  ],
+  "urticaria pigmentosa": [
+    "Smooth brown macules",
+    "Small brown papules",
+    "Brown reticular network",
+    "Mast cell infiltration",
+    "Truncal distribution"
+  ],
+  "vascular lesion": [
+    "Well demarcated papule",
+    "Erythematous violaceous lesion",
+    "Compressible red plaque",
+    "Multiple red lacunae",
+    "Dilated capillaries scalp"
+  ],
+  "vascular tumors": [
+    "Well-demarcated nodule",
+    "Violaceous papule",
+    "Ulcerated surface",
+    "Nodular polymorphous vessels",
+    "Facial endothelial proliferation"
+  ],
+  "vasculitis photos": [
+    "Palpable purpura",
+    "Erythematous leg purpura",
+    "Ulcerated necrotic plaques",
+    "Dotted vessel network",
+    "Leukocytoclastic vasculitis"
+  ],
+  "vitiligo": [
+    "Well demarcated patches",
+    "Depigmented macules",
+    "Smooth porcelain surface",
+    "Absent pigment network",
+    "Periorificial melanocyte loss"
+  ],
+  "warts molluscum and other viral infections": [
+    "Keratotic verrucous papule",
+    "Erythematous umbilicated papule",
+    "Smooth central umbilication",
+    "Dotted vessels pattern",
+    "HPV-induced acral papule"
+  ],
+  "xanthomas": [
+    "Well circumscribed plaques",
+    "Yellow linear vessels",
+    "Soft waxy",
+    "Structureless clods",
+    "Periorbital foam cells"
+  ],
+  "xeroderma pigmentosum": [
+    "Irregular facial patches",
+    "Freckle like hyperpigmentation",
+    "Scaly atrophic surface",
+    "Irregular pigment network",
+    "DNA repair defect"
+  ]
+}

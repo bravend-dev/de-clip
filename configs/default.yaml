@@ -1,0 +1,44 @@
+# DE-CLIP, the configuration used for every number in the paper unless a table says otherwise:
+# M = 8 label templates, R = 7 description templates, K = 100 descriptions per class generated
+# by five GPT-5.2 calls (20 each), tau = 0.95, alpha = 0.5, weighted-F1 on nine datasets.
+# Candidates are scored by their similarity to the own class anchor (Eq. 7); alpha = 0.5 is an equal
+# blend, tau = 0.95 merges near-duplicates only, K = 100 is the generation budget;
+# configs/ablations/ vary one of them at a time as sensitivity analyses.
+encode:
+  descriptions:            # concatenated in this order; K = 5 x 20 = 100 per class
+    - descriptions/gpt-5.2/call_k20_w3_1.json
+    - descriptions/gpt-5.2/call_k20_w3_2.json
+    - descriptions/gpt-5.2/call_k20_w3_3.json
+    - descriptions/gpt-5.2/call_k20_w3_4.json
+    - descriptions/gpt-5.2/call_k20_w3_5.json
+  templates:
+    label:                 # P^L_m, Sec. 3.3
+      - "This is a skin image of {c}"
+      - "This is a skin image of {c}."
+      - "A skin image of {c}."
+      - "An image of {c}, a skin condition."
+      - "{c}, a skin disorder, is shown in this image."
+      - "The skin lesion depicted is {c}."
+      - "The skin cancer in this image is {c}."
+      - "This image depicts {c}, a type of skin cancer."
+    description:           # P^D_r, Sec. 3.4
+      - "A skin lesion showing {d}"
+      - "This image displays {d}"
+      - "Close-up view of a lesion with {d}"
+      - "Visible {d} on the skin surface"
+      - "The presence of {d} is noted"
+      - "Skin condition with {d}"
+      - "{d}"
+    class_name_candidate:  # the bare class name is one extra candidate
+      - "{c}."
+
+aggregate:
+  selection:
+    type: grouping         # grouping | top_h | none
+    tau: 0.95
+  weighting: shifted_linear  # Eq. (9); or uniform
+  alpha: 0.5               # Eq. (11); equal blend. 1.0 = class-name baseline (Default), 0.0 = descriptions only
+  renormalize: true        # false: keep the (unnormalised) mean of unit candidates = score-mean of DCLIP/WaffleCLIP
+
+evaluation:
+  protocol: weighted_f1    # nine datasets, all images, weighted-F1 (Table 4)

@@ -1,0 +1,5 @@
+# Table 8: sensitivity to the grouping threshold tau. One-factor-at-a-time: the full DE-CLIP
+# configuration (alpha = 0.5) with tau varied; tau = 1.0 merges exact duplicates only.
+base: ../default.yaml
+grid:
+  aggregate.selection.tau: [0.70, 0.75, 0.80, 0.85, 0.90, 0.95, 1.00]

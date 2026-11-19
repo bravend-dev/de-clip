@@ -1,0 +1,16 @@
+# WaffleCLIP baseline (Roth et al., ICCV 2023): the descriptor is replaced by random words and
+# random character strings shared by all classes, 15 pairs = 30 prompts per class, rendered as
+# "A photo of a {c}, which has <random>." and scored by the mean cosine over the prompts.
+# One file per random seed; the tables report mean +- std over seeds 0-4 (five repetitions, as the
+# five runs of CuPL and DE-CLIP). Usage: --set 'encode.descriptions=["descriptions/baselines/waffle_count15_seed0.json"]'
+base: ../default.yaml
+encode:
+  descriptions: [descriptions/baselines/waffle_count15_seed0.json]
+  templates:
+    description: ["A photo of a {c}, {d}"]
+    class_name_candidate: []
+aggregate:
+  alpha: 0.0
+  selection: {type: none}
+  weighting: uniform
+  renormalize: false

@@ -1,0 +1,4 @@
+# Table 3: Derm1M accuracy protocol (HAM10000, Fitzpatrick17k, PAD-UFES-20, Daffodil), top-1 accuracy.
+base: default.yaml
+evaluation:
+  protocol: accuracy

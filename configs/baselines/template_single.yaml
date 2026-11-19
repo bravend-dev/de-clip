@@ -1,0 +1,7 @@
+# Class-name baseline with a single prompt template instead of the 8-template ensemble.
+base: ../default.yaml
+encode:
+  templates:
+    label: ["A skin image of {c}."]
+aggregate:
+  alpha: 1.0

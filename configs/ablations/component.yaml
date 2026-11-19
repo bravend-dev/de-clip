@@ -1,0 +1,12 @@
+# Table 5: component ablation (DermLIP). Rows are read off the grid:
+#   B0  alpha=1.0 (any selection/weighting)
+#   D1  alpha=0.5, none,     uniform
+#   D2  alpha=0.5, none,     shifted_linear   (score weighting)
+#   D3  alpha=0.5, grouping, uniform          (deduplication only)
+#   D4  alpha=0.5, grouping, shifted_linear   (= DE-CLIP)
+# Top-H rows: see component_top_h.yaml.
+base: ../default.yaml
+grid:
+  aggregate.alpha: [1.0, 0.5]
+  aggregate.selection.type: [none, grouping]
+  aggregate.weighting: [uniform, shifted_linear]

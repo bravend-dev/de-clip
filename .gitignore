@@ -1,0 +1,15 @@
+# data, weights, caches and run outputs are not part of the repository
+data/
+cache/
+weights/
+logs/
+results/
+.env
+# python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/

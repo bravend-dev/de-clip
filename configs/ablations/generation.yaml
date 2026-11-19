@@ -1,0 +1,5 @@
+# Table 10: sensitivity to description generation (DermLIP, full DE-CLIP, one LLM call per class).
+# Usage: --set 'encode.descriptions=["descriptions/gpt-5-mini/call_k20_w3_1.json"]'
+# Files: <generator>/call_k<K>_w<max words>_<n>.json, five independent calls (n = 1..5) per setting;
+# every row is the mean +- sd over the five calls (scripts/ablation_generation.sh).
+base: ../default.yaml

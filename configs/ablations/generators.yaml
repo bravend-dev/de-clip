@@ -1,0 +1,9 @@
+# Table 6: description generator. Every generator has five independent K=100 pools, run r =
+# calls 5r-4 .. 5r of 20 descriptions each; GPT-5.2 run 1 is the default pool (configs/default.yaml).
+# Usage: --set 'encode.descriptions=["descriptions/<generator>/call_k20_w3_1.json", ...]'
+# The grid gives B0 (alpha=1.0), D1 (none+uniform) and D4 (grouping+shifted_linear) per generator.
+base: ../default.yaml
+grid:
+  aggregate.alpha: [1.0, 0.5]
+  aggregate.selection.type: [none, grouping]
+  aggregate.weighting: [uniform, shifted_linear]
